@@ -1,0 +1,29 @@
+{
+  "name": "tms8bltrn---random-messages",
+  "version": "1.0.0",
+  "description": "Random message emitter",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JavaScript",
+    "Node",
+    "NPM"
+  ],
+  "author": "Tomás Beltrán <tomasfelipe29@hotmail.com>",
+  "license": "MIT",
+  "bin": {
+    "random-msg": "bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tom4sBeltr4n/randommessages.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Tom4sBeltr4n/randommessages/issues"
+  },
+  "homepage": "https://github.com/Tom4sBeltr4n/randommessages#readme"
+}
